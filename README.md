@@ -46,7 +46,7 @@ process-monitor/
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Sethuram2003/EventTracker_googleCalendar.git
 cd process-monitor
 ```
 
